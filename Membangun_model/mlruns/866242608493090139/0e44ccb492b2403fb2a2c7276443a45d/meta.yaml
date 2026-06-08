@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Study%20Independent/Eksperimen_SML_Wahyudi/Membangun_model/mlruns/866242608493090139/0e44ccb492b2403fb2a2c7276443a45d/artifacts
+end_time: 1780903152228
+entry_point_name: ''
+experiment_id: '866242608493090139'
+lifecycle_stage: active
+run_id: 0e44ccb492b2403fb2a2c7276443a45d
+run_name: RandomForest_Baseline
+run_uuid: 0e44ccb492b2403fb2a2c7276443a45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780903140233
+status: 3
+tags: []
+user_id: user
